@@ -1,8 +1,9 @@
 # Implement OOPS concept
 
 1.Write a java program to calculate the sum of two numbers.<br>
-2.Write a Java program to check whether the number is even or odd.<br>
+2.[Write a Java program to check whether the number is even or odd.](https://github.com/ProshantaDebnath/Java/blob/main/2.Write%20a%20Java%20program%20to%20check%20whether%20the%20number%20is%20even%20or%20odd.java)<br>
 3.Write a java program to calculate the factorial of a number.<br>
+
 4.Write a java program to find the Fibonacci series.<br>
 5.Write the java program to calculate the area of the rectangle using the concept of constructor.<br>
 6.Write a java program to sort the array by using any sorting method.<br>
