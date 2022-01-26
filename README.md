@@ -2,8 +2,8 @@
 
 1.[Write a java program to calculate the sum of two numbers.](https://github.com/ProshantaDebnath/Java/blob/main/1.Write%20a%20java%20program%20to%20calculate%20the%20sum%20of%20two%20numbers.java)<br>
 2.[Write a Java program to check whether the number is even or odd.](https://github.com/ProshantaDebnath/Java/blob/main/2.Write%20a%20Java%20program%20to%20check%20whether%20the%20number%20is%20even%20or%20odd.java)<br>
-3.Write a java program to calculate the factorial of a number.<br>
-4.Write a java program to find the Fibonacci series.<br>
+3.[Write a java program to calculate the factorial of a number.](https://github.com/ProshantaDebnath/Java/blob/main/3.Write%20a%20java%20program%20to%20calculate%20the%20factorial%20of%20a%20number.java)<br>
+4.[Write a java program to find the Fibonacci series.](https://github.com/ProshantaDebnath/Java/blob/main/4.Write%20a%20java%20program%20to%20find%20the%20Fibonacci%20series.java)<br>
 5.[Write the java program to calculate the area of the rectangle using the concept of constructor.](https://github.com/ProshantaDebnath/Java/blob/main/5.Write%20the%20java%20program%20to%20calculate%20the%20area%20of%20the%20rectangle%20using%20the%20concept%20of%20constructor.java)<br>
 6.[Write a java program to sort the array by using any sorting method.](https://github.com/ProshantaDebnath/Java/blob/main/6.Write%20a%20java%20program%20to%20sort%20the%20array%20by%20using%20any%20sorting%20method.java)<br>
 7.[Write a java program using this keyword which is used to refer current class instance variable.](https://github.com/ProshantaDebnath/Java/blob/main/7.Write%20a%20java%20program%20using%20this%20keyword%20which%20is%20used%20to%20refer%20current%20class%20instance%20variable.java)<br>
