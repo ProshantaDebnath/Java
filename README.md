@@ -5,7 +5,7 @@
 3.Write a java program to calculate the factorial of a number.<br>
 4.Write a java program to find the Fibonacci series.<br>
 5.Write the java program to calculate the area of the rectangle using the concept of constructor.<br>
-6Write a java program to sort the array by using any sorting method.<br>
+6.Write a java program to sort the array by using any sorting method.<br>
 7.Write a java program using this keyword which is used to refer current class instance variable.<br>
 8.Write a java program using this keyword to invoke current class constructor.<br>
 9.Write a java program using this keyword to invoke current class method(implicitly).<br>
